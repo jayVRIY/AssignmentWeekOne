@@ -18,4 +18,4 @@ simulator:
 <img src="https://recordit.co/p9yLSEYofO.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+Finished all user stories and run it on real device
