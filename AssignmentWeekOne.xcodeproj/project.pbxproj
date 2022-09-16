@@ -16,7 +16,7 @@
 		69C193C928D41AB500F3E746 /* AssignmentWeekOneUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69C193C828D41AB500F3E746 /* AssignmentWeekOneUITestsLaunchTests.swift */; };
 		69C193DA28D41C8200F3E746 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 69C193D928D41C8200F3E746 /* Launch Screen.storyboard */; };
 		69CB1EC728D4268500813432 /* Movies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69CB1EC628D4268500813432 /* Movies.swift */; };
-		69CB1EC928D4482E00813432 /* assignment_1_readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 69CB1EC828D4482E00813432 /* assignment_1_readme.md */; };
+		69CB1EC928D4482E00813432 /* readme.md in Resources */ = {isa = PBXBuildFile; fileRef = 69CB1EC828D4482E00813432 /* readme.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,7 +49,7 @@
 		69C193C828D41AB500F3E746 /* AssignmentWeekOneUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentWeekOneUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		69C193D928D41C8200F3E746 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 		69CB1EC628D4268500813432 /* Movies.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movies.swift; sourceTree = "<group>"; };
-		69CB1EC828D4482E00813432 /* assignment_1_readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = assignment_1_readme.md; sourceTree = SOURCE_ROOT; };
+		69CB1EC828D4482E00813432 /* readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,7 +80,7 @@
 		69C1939F28D41AB200F3E746 = {
 			isa = PBXGroup;
 			children = (
-				69CB1EC828D4482E00813432 /* assignment_1_readme.md */,
+				69CB1EC828D4482E00813432 /* readme.md */,
 				69C193AA28D41AB300F3E746 /* AssignmentWeekOne */,
 				69C193BB28D41AB500F3E746 /* AssignmentWeekOneTests */,
 				69C193C528D41AB500F3E746 /* AssignmentWeekOneUITests */,
@@ -243,7 +243,7 @@
 				69C193DA28D41C8200F3E746 /* Launch Screen.storyboard in Resources */,
 				69C193B328D41AB400F3E746 /* Preview Assets.xcassets in Resources */,
 				69C193B028D41AB400F3E746 /* Assets.xcassets in Resources */,
-				69CB1EC928D4482E00813432 /* assignment_1_readme.md in Resources */,
+				69CB1EC928D4482E00813432 /* readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
