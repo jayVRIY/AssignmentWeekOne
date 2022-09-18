@@ -13,7 +13,7 @@
 
 ### App Walkthrough GIF(real device and simulator)
 real device:
-<img src="http://g.recordit.co/RuwHyzpwXN.gif" width=250><br><br><br><br><br>
+<img src="http://g.recordit.co/HtaOmskNm2.gif" width=250><br><br><br><br><br>
 simulator:
 <img src="http://g.recordit.co/3Ilc5sdnM0.gif" width=250><br>
 
