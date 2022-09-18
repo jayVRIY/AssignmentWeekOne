@@ -13,9 +13,9 @@
 
 ### App Walkthrough GIF(real device and simulator)
 real device
-<img src="https://recordit.co/eja9RHlzR9.gif" width=250><br>
+<img src="http://g.recordit.co/RuwHyzpwXN.gif" width=250><br>
 simulator:
-<img src="https://recordit.co/p9yLSEYofO.gif" width=250><br>
+<img src="http://g.recordit.co/3Ilc5sdnM0.gif" width=250><br>
 
 ### Notes
 Finished all user stories and run it on real device
