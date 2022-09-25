@@ -41,11 +41,11 @@ class MoviesModel:ObservableObject{
         do{
             let url = URL(string: "https://api.themoviedb.org/3/movie/now_playing?api_key=a07e22bc18f5cb106bfe4cc1f83ad8ed")!
             let (data,_) = try await URLSession.shared.data(from: url)
-            var datastr = String(data:data,encoding: .utf8)!
+            let datastr = String(data:data,encoding: .utf8)!
             print( datastr)
             movieList = try JSONDecoder().decode(MovieList.self,from : data)
             print(movieList)
-        }catch{error
+        }catch{
             print(error)
         }
     }

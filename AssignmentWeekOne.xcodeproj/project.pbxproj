@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		69B0C3EE28DC5D9E00B39F7F /* MovieDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69B0C3ED28DC5D9E00B39F7F /* MovieDetail.swift */; };
 		69C193AC28D41AB300F3E746 /* AssignmentWeekOneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69C193AB28D41AB300F3E746 /* AssignmentWeekOneApp.swift */; };
 		69C193AE28D41AB300F3E746 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69C193AD28D41AB300F3E746 /* ContentView.swift */; };
 		69C193B028D41AB400F3E746 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 69C193AF28D41AB400F3E746 /* Assets.xcassets */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		69B0C3ED28DC5D9E00B39F7F /* MovieDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieDetail.swift; sourceTree = "<group>"; };
 		69C193A828D41AB300F3E746 /* AssignmentWeekOne.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AssignmentWeekOne.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		69C193AB28D41AB300F3E746 /* AssignmentWeekOneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentWeekOneApp.swift; sourceTree = "<group>"; };
 		69C193AD28D41AB300F3E746 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -107,6 +109,7 @@
 				69C193B128D41AB400F3E746 /* Preview Content */,
 				69C193D928D41C8200F3E746 /* Launch Screen.storyboard */,
 				69CB1EC628D4268500813432 /* Movies.swift */,
+				69B0C3ED28DC5D9E00B39F7F /* MovieDetail.swift */,
 			);
 			path = AssignmentWeekOne;
 			sourceTree = "<group>";
@@ -271,6 +274,7 @@
 				69C193AE28D41AB300F3E746 /* ContentView.swift in Sources */,
 				69C193AC28D41AB300F3E746 /* AssignmentWeekOneApp.swift in Sources */,
 				69CB1EC728D4268500813432 /* Movies.swift in Sources */,
+				69B0C3EE28DC5D9E00B39F7F /* MovieDetail.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
