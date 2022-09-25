@@ -8,5 +8,5 @@
 
 ### App Walkthrough GIF()
 simulator:
-<img src="http://g.recordit.co/UjK9DRWs3M.gif" width=250><br>
+<img src="http://g.recordit.co/NDUhPJlR4N.gif" width=250><br>
 
